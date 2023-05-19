@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there and welcome to my page! 👋
 
 #### <center>Hi my name is Lee Faria. I am a security focused Solidity Developer with a range of experience from full stack dApp developement to build developer communities through my past work as a developer experience </center></bold>
 
