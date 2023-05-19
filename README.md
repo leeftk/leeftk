@@ -17,12 +17,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's some cool things that I've made or recently worked on! 
+Here's some cool things that I've made or recently worked on by category!
+
+
 
 - Solidty & Smart Contract Development
+  - Solidity Lottery Contract - https://github.com/leeftk/udemy-assignment
+  - Ethernaut levels completed locally - https://github.com/leeftk/local-ethernauts
+  - 
 - ConsenSys Developer Bootcamp 2019
 - Truffle Core
+  - Maintained and performed weekly releases for Truffle Core, ensuring its stability and continuous improvement.
+  - https://github.com/trufflesuite
 - Truffle L2 Network Integrations
-- Truffle Boxes 
-  - Truffle NFT Box - 
+  - Intergrated L2 functionality into Truffle by incoporating Arbiscan and Optimism scan in fetch-compile.
+  - https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile
+  
+
+- Truffle Boxes Designed and Developed by Me
+  - Truffle NFT Box for deploying NFT collections - https://github.com/truffle-box/nft-box
+  - Truffle DAO Box for Deploying a DAO on chain -  https://github.com/truffle-box/dao-box
+  - Truffle Unleashed  - Build a Rentable NFT Using ERC-4907 - https://github.com/trufflesuite/unleashed/tree/erc-4907
+
 
