@@ -1,6 +1,6 @@
 ## Hi there and welcome to my page! 👋
 
-#### <center>Hi my name is Lee Faria. I am a security focused Solidity Developer with a range of experience from full stack dApp developement to build developer communities through my past work as a developer experience </center></bold>
+#### <center>Hi my name is Lee Faria. I am a security focused Solidity Developer with a range of experience from full stack dApp developement to growing developer communities through my past experience as a developer relations engineer.</center></bold>
 
 <!--
 **leeftk/leeftk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
