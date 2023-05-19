@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hi my name is Lee Faria. I am a Security focused Solidity Developer with a range of experience from full stack dApp developement to build developer communities through my past work as a developer experience en
+#### <center>Hi my name is Lee Faria. I am a security focused Solidity Developer with a range of experience from full stack dApp developement to build developer communities through my past work as a developer experience </center></bold>
 
 <!--
 **leeftk/leeftk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,9 +30,10 @@ Here's some cool things that I've made or recently worked on by category!
   - Intergrated L2 functionality into Truffle by incoporating Arbiscan and Optimism scan in fetch-compile.
   - https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile
 - Solidty & Smart Contract Development
+  - Zuniswap - a clone of Uniswap built from scratch allowing for the trading an ERC20 token with ETH. - https://github.com/leeftk/zuniswap
   - Solidity Lottery Contract - https://github.com/leeftk/udemy-assignment
   - Ethernaut levels completed locally - https://github.com/leeftk/local-ethernauts
-  - 
+ 
 - ConsenSys Developer Bootcamp 2019
 
 
