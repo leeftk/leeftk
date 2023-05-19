@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Here's some cool things that I've made or recently worked on by category!
 
-- Truffle Boxes Designed and Developed by Me
+- Truffle Boxes
   - Truffle NFT Box for deploying NFT collections - https://github.com/truffle-box/nft-box
   - Truffle DAO Box for Deploying a DAO on chain -  https://github.com/truffle-box/dao-box
   - Truffle Unleashed  - Build a Rentable NFT Using ERC-4907 - https://github.com/trufflesuite/unleashed/tree/erc-4907
