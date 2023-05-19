@@ -27,7 +27,7 @@ Here's some cool things that I've made or recently worked on by category!
   - Maintained and performed weekly releases for Truffle Core, ensuring its stability and continuous improvement.
   - https://github.com/trufflesuite
 - Truffle L2 Network Integrations
-  - Intergrated L2 functionality into Truffle by incoporating Arbiscan and Optimism scan in fetch-compile. 
+  - Intergrated L2 functionality into Truffle by incoporating Arbiscan and [Optimism](https://optimistic.etherscan.io/) scan in fetch-compile. 
   - https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile
 - Solidty & Smart Contract Development
   - Zuniswap - a clone of Uniswap built from scratch allowing for the trading an ERC20 token with ETH. - https://github.com/leeftk/zuniswap
