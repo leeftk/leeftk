@@ -35,6 +35,7 @@ Here's some cool things that I've made or recently worked on by category!
   - Ethernaut levels completed locally - https://github.com/leeftk/local-ethernauts
  
 - ConsenSys Developer Bootcamp 2019
+ - Primis final project uploads files to IPFS and keeps a cryptographic has stored on chain - https://github.com/leeftk/PrimisFinalProject
 
 
 
