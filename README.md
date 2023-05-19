@@ -38,6 +38,9 @@ Here's some cool things that I've made or recently worked on by category!
 - ConsenSys Developer Bootcamp 2019
   - Primis final project uploads files to IPFS and keeps a cryptographic has stored on chain - https://github.com/leeftk/PrimisFinalProject
 
+- 🔭 I’m currently working on ...
+  
+  - Smart contract security auditing - https://github.com/leeftk/audit-reports
 
 
 
