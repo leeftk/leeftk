@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's some cool things that I've made or recently worked on by category!
+Here's some cool things that I've worked on in my time as a developer!
 
 - Truffle Boxes
   - Truffle NFT Box for deploying NFT collections - https://github.com/truffle-box/nft-box
