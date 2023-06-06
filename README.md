@@ -34,7 +34,7 @@ Here's some cool things that I've worked on in my time as a developer!
   - Zuniswap - a clone of Uniswap built from scratch allowing for the trading an ERC20 token with ETH. - https://github.com/leeftk/zuniswap
   - Solidity Lottery Contract - https://github.com/leeftk/udemy-assignment
   - Ethernaut levels completed locally - https://github.com/leeftk/local-ethernauts
-  - ENS "Clone" - Full stack dapp displaying frontend skills - [link](https://lucky-hill-3994.on.fleek.co/)
+  - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
  
 - ConsenSys Developer Bootcamp 2019
   - Primis final project uploads files to IPFS and keeps a cryptographic has stored on chain - https://github.com/leeftk/PrimisFinalProject
