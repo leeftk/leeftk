@@ -3,7 +3,7 @@
 My name is 33Audits. I am a Smart Contract Auditor who previously worked as a Solidity Developer at ConsenSys.
 
 ### Contact Information
-I'm available for contract dev work, technical writing, and private audits. Feel free to reach out via:
+If you're looking to work with me, I'm available for contract dev work, technical writing, and private audits. Feel free to reach out via:
 
 Twitter: [@33Audits](https://twitter.com/solidityauditor)
 
