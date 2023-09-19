@@ -1,6 +1,6 @@
-## About Me
+## About 33Audits
 
-#### <center> My name is 33Audits. I am a Smart Contract Auditor who previously worked as a Solidity Developer at ConsenSys.</center>
+My name is 33Audits. I am a Smart Contract Auditor who previously worked as a Solidity Developer at ConsenSys.
 
 ### Contact Information
 Feel free to reach out via:
