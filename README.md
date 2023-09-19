@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's some cool things that I've worked on in my time as a developer!
+Here are some cool things that I've worked on in my time as a developer!
 
 - Truffle Boxes
   - Truffle NFT Box for deploying NFT collections - https://github.com/truffle-box/nft-box
@@ -28,11 +28,11 @@ Here's some cool things that I've worked on in my time as a developer!
   - Maintained and performed weekly releases for Truffle Core, ensuring its stability and continuous improvement.
   - https://github.com/trufflesuite
 - Truffle L2 Network Integrations
-  - Intergrated L2 functionality into Truffle by incoporating Arbiscan and Optimism
+  - Integrated L2 functionality into Truffle by incorporating Arbiscan and Optimism
  scan in fetch-compile. 
   - https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile
-- Solidty & Smart Contract Development
-  - Zuniswap - a clone of Uniswap built from scratch allowing for the trading an ERC20 token with ETH. - https://github.com/leeftk/zuniswap
+- Solidity & Smart Contract Development
+  - Zuniswap - a clone of Uniswap built from scratch allowing for the trading of an ERC20 token with ETH. - https://github.com/leeftk/zuniswap
   - Solidity Lottery Contract - https://github.com/leeftk/udemy-assignment
   - Ethernaut levels completed locally - https://github.com/leeftk/local-ethernauts
   - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
@@ -41,9 +41,73 @@ Here's some cool things that I've worked on in my time as a developer!
   - Primis final project uploads files to IPFS and keeps a cryptographic has stored on chain - https://github.com/leeftk/PrimisFinalProject
 - My portfolio has demos and links to some of the projects mentioned above check it out here. - https://leefaria.com
 
-🔭 I’m currently working on ...
-  
-  - Smart contract security auditing - https://github.com/leeftk/audit-reports
+## Smart Contract Auditing
+
+# About 33Audits
+
+### Contact Information
+Feel free to reach out via:
+
+Twitter: [@33Audits](https://twitter.com/solidityauditor)
+
+Discord: 33audits
+
+Code4rena Profile: https://code4rena.com/@33audits
+
+# Summary
+
+| Overall | High risk |  Medium risk | Audited contests |
+|:--:|:--:|:--:|:--:|
+| 25 High/Medium | 9 High | 16 Medium | 22 |  
+
+# Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
+
+### Audit Competitions
+| Contest | High risk | Medium risk | Security report | 
+|:--:|:--:|:--:|:--:|
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 4 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
+| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | - | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md) | 
+
+
+# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
+
+### Audit Competitions
+| Contest | High risk | Medium risk | Security report | 
+|:--:|:--:|:--:|:--:|
+| [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/CodeHawks%20Escrow/Escrow-Report.md) | 
+| [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
+
+# Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
+
+### Judging Competitions
+| Contest | Leaderboard | Payout |
+|:--:|:--:|:--:|
+| [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 | $417.11 USDC | 
+| [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 | $99.21 USDC | 
+
+# Other Reports
+This is a culmination of other reports separate from H/M findings, feel free to give it a read!
+
+### Code4rena Analysis Reports
+Analysis reports are in-depth analysis of codebases as a whole. You can checkout more details [here.](https://code4rena.notion.site/Analyses-Guidelines-and-FAQ-2808a71e08e44c81a985527194f5f118#78bf85ff58944e0ab714a5e42fe1237a)
+
+| Contest | Analysis Report | Grade|
+|:--:|:--:|:--:|
+| [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arbitrum%20SCES/Arbitrum-SCES-Analysis.md) | Grade-B |
+
+
+### Code4rena QA Reports
+Quality Assurance (QA) reports are reports comprising of Low/Non-critical/Informational findings that can have some impact on a protocol but does not result in a direct loss of funds or broken protocol functionality.
+
+| Contest | QA Report | Grade|
+|:--:|:--:|:--:|
+| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-QA.md) | Grade-B |
+| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Lybra%20Finance/Lybra-QA.md) | Grade-A, Selected |
+| [Chainlink Cross-Chain Services](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Chainlink%20CCIP/Chainlink-CCIP-QA.md) | Grade-B |
+
+
+
+
 
 
 
