@@ -81,6 +81,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### Dev Work - Truffle/ConsenSys
+
 Here are some cool things that I've worked on in my time as a developer!
 
 - Truffle Boxes
