@@ -15,14 +15,14 @@ Code4rena Profile: https://code4rena.com/@33audits
 
 | Overall | High risk |  Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 25 High/Medium | 9 High | 16 Medium | 22 |  
+| 14 High/Medium | 7 High | 7 Medium | 7 |  
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 4 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
+| [Beedle Finance](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | - | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md) | 
 | [Payant]() | 2 High | 1 Medium | [Source]([https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
 
