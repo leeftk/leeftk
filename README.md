@@ -45,6 +45,7 @@ Code4rena Profile: https://code4rena.com/@33audits
 | [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 | $417.11 USDC | 
 | [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 | $99.21 USDC | 
 -->
+Coming soon...
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
 
