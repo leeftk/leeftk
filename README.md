@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Dev Work - Truffle/ConsenSys
+# Dev Work - Truffle/ConsenSys
 
 Here are some cool things that I've worked on in my time as a developer!
 
