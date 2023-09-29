@@ -50,11 +50,11 @@ Coming soon...
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
 
 ### Code4rena Analysis Reports
-Analysis reports are in-depth analysis of codebases as a whole. You can checkout more details [here.](https://code4rena.notion.site/Analyses-Guidelines-and-FAQ-2808a71e08e44c81a985527194f5f118#78bf85ff58944e0ab714a5e42fe1237a)
+Analysis reports are in-depth analyses of codebases as a whole. You can check more details [here.](https://code4rena.notion.site/Analyses-Guidelines-and-FAQ-2808a71e08e44c81a985527194f5f118#78bf85ff58944e0ab714a5e42fe1237a)
 
 | Contest | Analysis Report | Grade|
 |:--:|:--:|:--:|
-| [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-tangible-caviar#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arbitrum%20SCES/Arbitrum-SCES-Analysis.md) | Grade-B |
+| [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02#top) | [Source](https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md) | Grade-B |
 
 
 ### Code4rena QA Reports
