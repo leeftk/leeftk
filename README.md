@@ -64,8 +64,8 @@ Quality Assurance (QA) reports are reports comprising of Low/Non-critical/Inform
 
 | Contest | QA Report | Grade|
 |:--:|:--:|:--:|
-| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-QA.md) | Grade-B |
-| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Lybra%20Finance/Lybra-QA.md) | Grade-A, Selected |
+| [Maia DAO]() | [Coming Soon]() | Grade-A |
+| [Basin](https://code4rena.com/contests/2023-06-lybra-finance#top) | Grade-B |
 | [Chainlink Cross-Chain Services](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network#top) | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Chainlink%20CCIP/Chainlink-CCIP-QA.md) | Grade-B |
 
 
