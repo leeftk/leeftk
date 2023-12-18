@@ -17,6 +17,8 @@ Code4rena Profile: https://code4rena.com/@33audits
 |:--:|:--:|:--:|:--:|
 | 34 High/Medium | 15 High | 19 Medium | 7 |  
 
+* At least 30% of my audits were performed with a team.
+
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
 ### Audit Competitions
