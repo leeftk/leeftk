@@ -35,6 +35,8 @@ Code4rena Profile: https://code4rena.com/@33audits
 |:--:|:--:|:--:|:--:|
 | [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/CodeHawks%20Escrow/Escrow-Report.md) | 
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
+| [BeedleFi]([https://github.com/Cyfrin/2023-08-sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)) | 3 | 2 | [Source](https://github.com/leeftk/audit-reports/blob/main/codehawks/audit-report-beedle.md) | 
+| [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
