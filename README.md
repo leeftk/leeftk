@@ -23,7 +23,7 @@ Code4rena Profile: https://code4rena.com/@33audits
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
 | [Maio DAO](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
-| [Payant]() | 2 | 1  | [Source]([https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
+
 
 
 
@@ -37,16 +37,11 @@ Code4rena Profile: https://code4rena.com/@33audits
 | [BeedleFi]([https://github.com/Cyfrin/2023-08-sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)) | 3 | 2 | [Source](https://github.com/leeftk/audit-reports/blob/main/codehawks/audit-report-beedle.md) | 
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
 
-# Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
+# Private Audits
+| Contest | High risk | Medium risk | Security report | 
+|:--:|:--:|:--:|:--:|
+| [Payant]() | 2 | 1  | [Source]([https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
 
-### Judging Competitions
-<!---
-| Contest | Leaderboard | Payout |
-|:--:|:--:|:--:|
-| [GMX](https://audits.sherlock.xyz/contests/6)| 5/100 | $417.11 USDC | 
-| [Y2K](https://audits.sherlock.xyz/contests/57)| 9/97 | $99.21 USDC | 
--->
-Coming soon...
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
 
