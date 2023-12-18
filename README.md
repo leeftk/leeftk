@@ -23,7 +23,7 @@ Code4rena Profile: https://code4rena.com/@33audits
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
 | [Beedle Finance](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
-| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | - | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md) | 
+| [DSC StableCoin - CodeHawks]() | - | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md) | 
 | [Payant]() | 2 High | 1 Medium | [Source]([https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
 
 
@@ -34,7 +34,7 @@ Code4rena Profile: https://code4rena.com/@33audits
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
 | [CodeHawks Escrow](https://github.com/Cyfrin/2023-07-escrow) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/CodeHawks%20Escrow/Escrow-Report.md) | 
-| [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
+| [DSC Stable Coin - Codehawks](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 
 | [BeedleFi]([https://github.com/Cyfrin/2023-08-sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)) | 3 | 2 | [Source](https://github.com/leeftk/audit-reports/blob/main/codehawks/audit-report-beedle.md) | 
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
 
