@@ -15,9 +15,9 @@ Code4rena Profile: https://code4rena.com/@33audits
 
 # Summary
 
-| Overall | High risk |  Medium risk | Audited contests |
+| Overall | High risk |  Medium risk | Audited contests | Private Audits |
 |:--:|:--:|:--:|:--:|
-| 32 High/Medium | 12 High | 20 Medium | 7 |  
+| 32 High/Medium | 12 High | 20 Medium | 7 |  5 |
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
