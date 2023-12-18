@@ -43,7 +43,7 @@ Code4rena Profile: https://code4rena.com/@33audits
 | Payant | 2 | 1  | [Source]([https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
 | Libree - 11/2023| 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
 | Libree Proxies - 11/2023| 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
-| [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md)) | 
+| [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) | 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
 
@@ -53,7 +53,7 @@ Analysis reports are in-depth analyses of codebases as a whole. You can check mo
 | Contest | Analysis Report | Grade|
 |:--:|:--:|:--:|
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02#top) | [Source](https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md) | Grade-B |
-| Libree Proxy Analysis [Source]([https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-analysis-libree.md)) | Grade-B |
+| Libree Proxy Analysis | [Source](https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md) | Grade-B |
 
 
 
