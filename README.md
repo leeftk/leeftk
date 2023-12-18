@@ -22,7 +22,7 @@ Code4rena Profile: https://code4rena.com/@33audits
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Beedle Finance](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 High | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
+| [Maio DAO](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | | 1 Medium | [Source](https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Tangible/Tangible-Report.md) | 
 | [Payant]() | 2 High | 1 Medium | [Source]([https://github.com/nevillehuang/Portfolio/blob/main/Code4rena/Arcade/Arcade-Report.md](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
 
 
