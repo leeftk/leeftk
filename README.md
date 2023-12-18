@@ -53,6 +53,9 @@ Analysis reports are in-depth analyses of codebases as a whole. You can check mo
 | Contest | Analysis Report | Grade|
 |:--:|:--:|:--:|
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02#top) | [Source](https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md) | Grade-B |
+| Libree Proxy Analysis [Source]([https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-analysis-libree.md)) | Grade-B |
+
+
 
 
 ### Code4rena QA Reports
