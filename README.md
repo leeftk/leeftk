@@ -42,6 +42,7 @@ Code4rena Profile: https://code4rena.com/@33audits
 |:--:|:--:|:--:|:--:|
 | Payant | 2 | 1  | [Source]([https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
 | Libree - 11/2023| 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
+| Libree Proxies - 11/2023| 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
 | [Payant]() | 2 | 1  | [Source]([https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
