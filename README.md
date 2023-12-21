@@ -111,6 +111,8 @@ Here are some cool things that I've worked on in my time as a developer!
   - Solidity Lottery Contract - https://github.com/leeftk/udemy-assignment
   - Ethernaut levels completed locally - https://github.com/leeftk/local-ethernauts
   - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
+  - ERC4626 Index Vault for AITokens - https://github.com/leeftk/index-vault
+  - Account Abstractions Lite - A lite implementation of the Simple Account 4337 wallet by the EF - https://github.com/leeftk/account-abstraction
  
 - ConsenSys Developer Bootcamp 2019
   - Primis final project uploads files to IPFS and keeps a cryptographic has stored on chain - https://github.com/leeftk/PrimisFinalProject
