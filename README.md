@@ -25,7 +25,7 @@ Code4rena Profile: https://code4rena.com/@33audits
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
 | [Maio DAO](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | - | 1 | [Source]() | 
-| [Rubicon](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 1 |  | [Source](https://code4rena.com/@33audits) | 
+| [Rubicon](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 1 | - | [Source](https://code4rena.com/@33audits) | 
 
 
 
