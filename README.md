@@ -92,6 +92,10 @@ Here are some ideas to get you started:
 
 # Dev Work - Truffle/ConsenSys
 
+Fork of UniswapV2 with custom function doing over $500,000 in volume. 
+
+- https://github.com/leeftk/prophetrouter
+
 Here are some cool things that I've worked on in my time as a developer!
 
 - Truffle Boxes
