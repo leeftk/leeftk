@@ -47,6 +47,9 @@ Code4rena Profile: https://code4rena.com/@33audits
 | Libree - 11/2023| 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
 | Libree Proxies - 11/2023| 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
 | [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) | 
+| [JuiceBox]([https://juicebox.money/]) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/juicebox-eth-audit-report-v4.pdf) | 
+
+https://github.com/leeftk/audit-reports/blob/main/private%20audits/juicebox-eth-audit-report-v4.pdf
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
 
