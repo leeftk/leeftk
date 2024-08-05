@@ -114,9 +114,7 @@ Here are some cool things that I've worked on in my time as a developer!
  scan in fetch-compile. 
   - https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile
 - Solidity & Smart Contract Development
-  - Zuniswap - a clone of Uniswap built from scratch allowing for the trading of an ERC20 token with ETH. - https://github.com/leeftk/zuniswap
-  - Solidity Lottery Contract - https://github.com/leeftk/udemy-assignment
-  - Ethernaut levels completed locally - https://github.com/leeftk/local-ethernauts
+  - omniLiquidVaults - cross-chain liquidity vaults powered by LayerZero - https://github.com/leeftk/index-vaultv2
   - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
   - ERC4626 Index Vault for AITokens - https://github.com/leeftk/index-vault
   - Account Abstractions Lite - A lite implementation of the Simple Account 4337 wallet by the EF - https://github.com/leeftk/account-abstraction
