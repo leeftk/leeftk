@@ -98,6 +98,7 @@ Here are some ideas to get you started:
 
 Here are some cool things that I've worked on in my time as a developer!
 - Solidity & Smart Contract Development
+  - UniswapV4 Point Hook - https://github.com/leeftk/uniswapV4-points-hook
   - omniLiquidVaults - cross-chain liquidity vaults powered by LayerZero - https://github.com/leeftk/index-vaultv2
   - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
   - ERC4626 Index Vault for AITokens - https://github.com/leeftk/index-vault
