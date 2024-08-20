@@ -95,9 +95,6 @@ Here are some ideas to get you started:
 
 # Dev Work - Truffle/ConsenSys
 
-AMM router for ProphetBots.
-
-- https://github.com/leeftk/prophetrouter
 
 Here are some cool things that I've worked on in my time as a developer!
 - Solidity & Smart Contract Development
@@ -105,6 +102,7 @@ Here are some cool things that I've worked on in my time as a developer!
   - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
   - ERC4626 Index Vault for AITokens - https://github.com/leeftk/index-vault
   - Account Abstractions Lite - A lite implementation of the Simple Account 4337 wallet by the EF - https://github.com/leeftk/account-abstraction
+  - AMM router for ProphetBots - https://github.com/leeftk/prophetrouter
 - Truffle Boxes
   - Truffle NFT Box for deploying NFT collections - https://github.com/truffle-box/nft-box
   - Truffle DAO Box for deploying a DAO on chain -  https://github.com/truffle-box/dao-box
