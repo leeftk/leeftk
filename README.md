@@ -95,12 +95,16 @@ Here are some ideas to get you started:
 
 # Dev Work - Truffle/ConsenSys
 
-Fork of UniswapV2 with custom function doing over $500,000 in volume. 
+AMM router for ProphetBots.
 
 - https://github.com/leeftk/prophetrouter
 
 Here are some cool things that I've worked on in my time as a developer!
-
+- Solidity & Smart Contract Development
+  - omniLiquidVaults - cross-chain liquidity vaults powered by LayerZero - https://github.com/leeftk/index-vaultv2
+  - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
+  - ERC4626 Index Vault for AITokens - https://github.com/leeftk/index-vault
+  - Account Abstractions Lite - A lite implementation of the Simple Account 4337 wallet by the EF - https://github.com/leeftk/account-abstraction
 - Truffle Boxes
   - Truffle NFT Box for deploying NFT collections - https://github.com/truffle-box/nft-box
   - Truffle DAO Box for deploying a DAO on chain -  https://github.com/truffle-box/dao-box
@@ -113,14 +117,6 @@ Here are some cool things that I've worked on in my time as a developer!
   - Integrated L2 functionality into Truffle by incorporating Arbiscan and Optimism
  scan in fetch-compile. 
   - https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile
-- Solidity & Smart Contract Development
-  - omniLiquidVaults - cross-chain liquidity vaults powered by LayerZero - https://github.com/leeftk/index-vaultv2
-  - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
-  - ERC4626 Index Vault for AITokens - https://github.com/leeftk/index-vault
-  - Account Abstractions Lite - A lite implementation of the Simple Account 4337 wallet by the EF - https://github.com/leeftk/account-abstraction
- 
-- ConsenSys Developer Bootcamp 2019
-  - Primis final project uploads files to IPFS and keeps a cryptographic has stored on chain - https://github.com/leeftk/PrimisFinalProject
 - My portfolio has demos and links to some of the projects mentioned above check it out here.
   - [Portfolio Site](https://leefaria.com)
   - [LinkedIn](https://www.linkedin.com/in/leandro-faria-564619174/)
