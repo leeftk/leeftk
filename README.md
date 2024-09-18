@@ -30,7 +30,8 @@ Code4rena Profile: https://code4rena.com/@33audits
 
 
 
-# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
+
+# CodeHawks <img src="https://code4rena.com/logos/c4/c4-logo.svg" width=50 height=27>
 | 12 High/Medium | 3 High | 8 Medium | 4 |  
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
