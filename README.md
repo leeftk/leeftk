@@ -19,6 +19,17 @@ Code4rena Profile: https://code4rena.com/@33audits
 |:--:|:--:|:--:|:--:|:--:|
 | 60 High/Medium | 17 High | 33 Medium | 7 |  5 |
 
+# Private Audits
+| Contest | High risk | Medium risk | Security report | 
+|:--:|:--:|:--:|:--:|
+| Payant | 2 | 1  | [Source](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
+| Libree - 11/2023| 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
+| Libree Proxies - 11/2023| 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
+| [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) | 
+| [JuiceBox](https://juicebox.money/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/juicebox-eth-audit-report-v4.pdf) | 
+| [Dein](https://dein.fi/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf) | 
+
+
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
 ### Audit Competitions
@@ -40,16 +51,6 @@ Code4rena Profile: https://code4rena.com/@33audits
 | [DSC Stable Coin - Codehawks](https://github.com/Cyfrin/2023-08-sparkn) | - | 4 | [Source](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 
 | [BeedleFi]([https://github.com/Cyfrin/2023-08-sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)) | 3 | 2 | [Source](https://github.com/leeftk/audit-reports/blob/main/codehawks/audit-report-beedle.md) | 
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
-
-# Private Audits
-| Contest | High risk | Medium risk | Security report | 
-|:--:|:--:|:--:|:--:|
-| Payant | 2 | 1  | [Source](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
-| Libree - 11/2023| 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
-| Libree Proxies - 11/2023| 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
-| [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) | 
-| [JuiceBox](https://juicebox.money/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/juicebox-eth-audit-report-v4.pdf) | 
-| [Dein](https://dein.fi/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf) | 
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
