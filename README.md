@@ -9,10 +9,6 @@ Twitter: [@SolidityAuditor](https://twitter.com/solidityauditor)
 
 Discord: 33audits
 
-Code4rena Profile: https://code4rena.com/@33audits
-
-** At least 30% of my audits were performed with a team.
-
 # Summary
 
 | Overall | High risk |  Medium risk | Audited contests | Private Audits |
