@@ -22,15 +22,17 @@ Discord: 33audits
 | [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) | 
 | [JuiceBox](https://juicebox.money/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/juicebox-eth-audit-report-v4.pdf) | 
 | [Dein](https://dein.fi/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf) | 
-| 2Phux Finance| 1 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/2phux-audit-report.pdf)| 
-| MCR386 Staking| 2 | 4  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/MCR369Staking_merged.pdf)| 
-| StakeHouse Pool Audit| 4 | 3  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/StakeHousePool-audit-report.pdf)|
-| Bistro Staking | 3 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf)| 
+| [Libree ERC6909](https://www.libree.xyz/) | 0 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/libree-audit-report-plugins.pdf)| 
+| [Libree](https://www.libree.xyz/) | 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
+| [Libree Proxies](https://www.libree.xyz/) | 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
 | [Seraph Token](https://www.seraph.game/) | 0 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/seraph-audit-report.pdf)|
 | [Seraph Token_v2](https://www.seraph.game/) | 0 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-seraph-token.pdf)|
-| Libree ERC6909 | 0 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/libree-audit-report-plugins.pdf)| 
-| Libree | 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
-| Libree Proxies | 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
+| [2Phux Finance](https://2phux.io/)| 1 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/2phux-audit-report.pdf)| 
+| [MCR386 Staking](https://www.mcr369.io/)| 2 | 4  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/MCR369Staking_merged.pdf)| 
+| [StakeHouse](https://www.0xbuffet.io/stake)| 4 | 3  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/StakeHousePool-audit-report.pdf)|
+| [Bistro Staking](https://0xbistro.io/) | 3 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf)| 
+
+
 
 
 # CodeHawks
