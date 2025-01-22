@@ -72,15 +72,15 @@ Here are some ideas to get you started:
   - ERC4626 Index Vault for AITokens - https://github.com/leeftk/index-vault
   - Account Abstractions Lite - A lite implementation of the Simple Account 4337 wallet by the EF - https://github.com/leeftk/account-abstraction
   - AMM router for ProphetBots - https://github.com/leeftk/prophetrouter
-- Truffle Boxes
+- Truffle Boxes - Consensys
   - Truffle NFT Box for deploying NFT collections - https://github.com/truffle-box/nft-box
   - Truffle DAO Box for deploying a DAO on chain -  https://github.com/truffle-box/dao-box
   - Truffle Unleashed  - Build a Rentable NFT Using ERC-4907 - https://github.com/trufflesuite/unleashed/tree/erc-4907
   - Rentable Pets NFT tutorial - https://trufflesuite.com/guides/rentable-nft/
-- Truffle Core
+- Truffle Core - Consensys
   - Maintained and performed weekly releases for Truffle Core, ensuring its stability and continuous improvement.
   - https://github.com/trufflesuite
-- Truffle L2 Network Integrations
+- Truffle L2 Network Integrations - Consensys
   - Integrated L2 functionality into Truffle by incorporating Arbiscan and Optimism
  scan in fetch-compile. 
   - https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile
