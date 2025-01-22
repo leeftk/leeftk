@@ -13,7 +13,8 @@ Discord: 33audits
 
 | Overall | High risk |  Medium risk | Audited contests | Private Audits |
 |:--:|:--:|:--:|:--:|:--:|
-| 60 High/Medium | 27 High | 33 Medium | 7 |  5 |
+| 85 High/Medium | 29 High | 56 Medium | 4 | 11 |
+
 
 # Private Audits
 | Contest | High risk | Medium risk | Security report | 
@@ -21,25 +22,17 @@ Discord: 33audits
 | [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) | 
 | [JuiceBox](https://juicebox.money/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/juicebox-eth-audit-report-v4.pdf) | 
 | [Dein](https://dein.fi/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf) | 
-| Payant | 2 | 1  | [Source](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf)) | 
-| Libree - 11/2023| 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
-| Libree Proxies - 11/2023| 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
+| 2Phux Finance| 1 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/2phux-audit-report.pdf)| 
+| MCR386 Staking| 2 | 4  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/MCR369Staking_merged.pdf)| 
+| StakeHouse Pool Audit| 4 | 3  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/StakeHousePool-audit-report.pdf)|
+| Bistro Staking | 3 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf)| 
+| Seraph Token | 0 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/seraph-audit-report.pdf)|
+| Libree ERC6909 | 0 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/libree-audit-report-plugins.pdf)| 
+| Libree | 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
+| Libree Proxies | 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
 
 
-
-# Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
-
-### Audit Competitions
-| Contest | High risk | Medium risk | Security report | 
-|:--:|:--:|:--:|:--:|
-| [Maio DAO](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | - | 1 | Coming Soon | 
-| [Rubicon](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 1 | - | Coming Soon | 
-
-
-
-
-
-# CodeHawks <img src="https://code4rena.com/logos/c4/c4-logo.svg" width=50 height=27>
+# CodeHawks
 | 12 High/Medium | 3 High | 8 Medium | 4 |  
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | 
@@ -51,29 +44,6 @@ Discord: 33audits
 
 # Other Reports
 This is a culmination of other reports separate from H/M findings, feel free to give it a read!
-
-### Code4rena Analysis Reports
-Analysis reports are in-depth analyses of codebases as a whole. You can check more details [here.](https://code4rena.notion.site/Analyses-Guidelines-and-FAQ-2808a71e08e44c81a985527194f5f118#78bf85ff58944e0ab714a5e42fe1237a)
-
-| Contest | Analysis Report | Grade|
-|:--:|:--:|:--:|
-| [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02#top) | [Source](https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md) | Grade-A |
-| Libree Proxy Analysis | [Source](https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md) | Grade-B |
-| Maia-Dao | [Source]([https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md](https://github.com/leeftk/audit-reports/blob/main/code4rena/maia-dao-analysis.md)) | Grade-A |
-
-
-
-
-
-### Code4rena QA Reports
-Quality Assurance (QA) reports are reports comprising of Low/Non-critical/Informational findings that can have some impact on a protocol but does not result in a direct loss of funds or broken protocol functionality.
-
-| Contest | QA Report | Grade|
-|:--:|:--:|:--:|
-| [Maia DAO]() | [Coming Soon]() | Grade-A |
-| Basin | [Source](https://code4rena.com/@33audits) | Grade-B |
-| [Chainlink Staking](https://code4rena.com/contests/2023-08-chainlink-staking-v02#top) | [Source](https://github.com/leeftk/audit-reports/blob/main/code4rena/qa-report-chainlink.md) | Grade-B |
-
 
 
 <!--
@@ -92,10 +62,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Dev Work - Truffle/ConsenSys & Beyond
-
-
-Here are some cool things that I've worked on in my time as a developer!
+# Dev Work
 - Solidity & Smart Contract Development
   - UniswapV4 Point Hook - https://github.com/leeftk/uniswapV4-points-hook
   - UniswapV4 TWAMM Hook for FWB DAO - https://github.com/leeftk/hooks-fwb/
@@ -116,9 +83,6 @@ Here are some cool things that I've worked on in my time as a developer!
   - Integrated L2 functionality into Truffle by incorporating Arbiscan and Optimism
  scan in fetch-compile. 
   - https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile
-- My portfolio has demos and links to some of the projects mentioned above check it out here.
-  - [Portfolio Site](https://leefaria.com)
-  - [LinkedIn](https://www.linkedin.com/in/leandro-faria-564619174/)
 
 
 
