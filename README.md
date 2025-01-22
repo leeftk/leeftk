@@ -7,7 +7,7 @@ If you're looking to work with me, I'm available for contract dev work, technica
 
 Twitter: [@SolidityAuditor](https://twitter.com/solidityauditor)
 
-Discord: 33audits
+Telegram: [33audits](https://t.me/audits33)
 
 # Summary
 
