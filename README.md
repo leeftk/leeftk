@@ -26,7 +26,8 @@ Discord: 33audits
 | MCR386 Staking| 2 | 4  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/MCR369Staking_merged.pdf)| 
 | StakeHouse Pool Audit| 4 | 3  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/StakeHousePool-audit-report.pdf)|
 | Bistro Staking | 3 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf)| 
-| Seraph Token | 0 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/seraph-audit-report.pdf)|
+| [Seraph] Token(https://www.seraph.game/) | 0 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/seraph-audit-report.pdf)|
+| [Seraph] Token_v2(https://www.seraph.game/) | 0 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-seraph-token.pdf)|
 | Libree ERC6909 | 0 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/libree-audit-report-plugins.pdf)| 
 | Libree | 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
 | Libree Proxies | 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
