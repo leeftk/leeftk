@@ -45,10 +45,6 @@ Discord: 33audits
 | [BeedleFi]([https://github.com/Cyfrin/2023-08-sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)) | 3 | 2 | [Source](https://github.com/leeftk/audit-reports/blob/main/codehawks/audit-report-beedle.md) | 
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
 
-# Other Reports
-This is a culmination of other reports separate from H/M findings, feel free to give it a read!
-
-
 <!--
 **leeftk/leeftk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,6 +65,7 @@ Here are some ideas to get you started:
 - Solidity & Smart Contract Development
   - UniswapV4 Point Hook - https://github.com/leeftk/uniswapV4-points-hook
   - UniswapV4 TWAMM Hook for FWB DAO - https://github.com/leeftk/hooks-fwb/
+  - Ekubo TWAMM Bridge built in Cairo - https://github.com/leeftk/twamm-ekubo/tree/main
   - omniLiquidVaults - cross-chain liquidity vaults powered by LayerZero - https://github.com/leeftk/index-vaultv2
   - ENS "Clone" - Full stack dapp displaying frontend skills - [click here for demo](https://lucky-hill-3994.on.fleek.co/)
   - ERC4626 Index Vault for AITokens - https://github.com/leeftk/index-vault
