@@ -5,9 +5,9 @@ My name is 33Audits. I am a Smart Contract Auditor and Solidity Developer with f
 ### Contact Information
 If you're looking to work with me, I'm available for contract dev work, technical writing, and private audits. Feel free to reach out via:
 
-Twitter: [@SolidityAuditor](https://twitter.com/solidityauditor)
+Twitter: [33Audits](https://twitter.com/solidityauditor)
 
-Telegram: [33audits](https://t.me/audits33)
+Telegram: [33Audits](https://t.me/audits33)
 
 # Summary
 
