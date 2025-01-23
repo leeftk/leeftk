@@ -19,9 +19,9 @@ Telegram: [33audits](https://t.me/audits33)
 # Private Audits
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) | 
 | [JuiceBox](https://juicebox.money/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/juicebox-eth-audit-report-v4.pdf) | 
 | [Dein](https://dein.fi/) | 5 | 13  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf) | 
+| [StakeTogether](https://staketogether.org/) | 1 | 7  | [Source](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) | 
 | [Libree ERC6909](https://www.libree.xyz/) | 0 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/libree-audit-report-plugins.pdf)| 
 | [Libree](https://www.libree.xyz/) | 4 | 1  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree.pdf)| 
 | [Libree Proxies](https://www.libree.xyz/) | 1 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf)| 
