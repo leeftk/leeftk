@@ -14,7 +14,7 @@ Twitter: [33Audits](https://twitter.com/solidityauditor)
 
 | Overall | High risk |  Medium risk | Audited contests | Private Audits |
 |:--:|:--:|:--:|:--:|:--:|
-| 85 High/Medium | 29 High | 56 Medium | 4 | 11 |
+| 85 High/Medium | 37 High | 67 Medium | 4 | 15 |
 
 
 # Private Audits
@@ -31,7 +31,12 @@ Twitter: [33Audits](https://twitter.com/solidityauditor)
 | [2Phux Finance](https://2phux.io/)| 1 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/2phux-audit-report.pdf)| 
 | [MCR386 Staking](https://www.mcr369.io/)| 2 | 4  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/MCR369Staking_merged.pdf)| 
 | [StakeHouse](https://www.0xbuffet.io/stake)| 4 | 3  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/StakeHousePool-audit-report.pdf)|
-| [Bistro Staking](https://0xbistro.io/) | 3 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf)| 
+| [Bistro Staking](https://0xbistro.io/) | 3 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf)|
+| [BackGeoOracle]| 2 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-backgeooracle.pdf)|
+| [V4-Router]| 1 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/router-v4-audit-report%20(1).pdf)|
+| [Vouch]| 5 | 8  | [Source](https://github.com/33Audits/vouch-audit/blob/main/vouch-audit-report.md)|
+| [Torus]| 0 | 3  | [Source](https://github.com/33Audits/torus-audit/blob/main/torus-audit.md)|
+
 
 
 
