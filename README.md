@@ -31,7 +31,8 @@ Twitter: [33Audits](https://twitter.com/solidityauditor)
 | [2Phux Finance](https://2phux.io/)| 1 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/2phux-audit-report.pdf)| 
 | [MCR386 Staking](https://www.mcr369.io/)| 2 | 4  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/MCR369Staking_merged.pdf)| 
 | [StakeHouse](https://www.0xbuffet.io/stake)| 4 | 3  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/StakeHousePool-audit-report.pdf)|
-| [Bistro Staking](https://0xbistro.io/) | 3 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf)| 
+| [Bistro Staking](https://0xbistro.io/) | 3 | 2  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf)|
+| Inverter Oracle FM | 2 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-fm-oracle-redeeming.pdf)| 
 
 
 
