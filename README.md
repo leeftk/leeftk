@@ -46,6 +46,23 @@ Twitter: [33Audits](https://twitter.com/solidityauditor)
 | [BeedleFi]([https://github.com/Cyfrin/2023-08-sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)) | 3 | 2 | [Source](https://github.com/leeftk/audit-reports/blob/main/codehawks/audit-report-beedle.md) | 
 | [Sparkn](https://github.com/Cyfrin/2023-08-sparkn) | - | 1 | [Source](https://github.com/nevillehuang/Portfolio/blob/main/CodeHawks/Sparkn/Sparkn-Report.md) | 
 
+# Cantina
+| 4 High/Medium | 2 High | 0 Medium | 2 Low |  
+### Audit Competitions
+| Contest | High risk | Medium risk | Security report | 
+|:--:|:--:|:--:|:--:|
+| [DAAO](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | 2 | - | [Source](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/leaderboard?search=33Audits) | 
+| [Sorella](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940) | - | 2 | [Source](https://cantina.xyz/u/33audits) | 
+
+# Code4rena
+| 4 High/Medium | 1 High | 3 Medium | 4 |  
+### Audit Competitions
+| Contest | High risk | Medium risk | Security report | 
+|:--:|:--:|:--:|:--:|
+| [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | 1 | 3 | [Source](https://code4rena.com/@bumbleb33](https://code4rena.com/audits/2024-12-lambowin/submissions/S-551)) | 
+
+
+
 <!--
 **leeftk/leeftk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
