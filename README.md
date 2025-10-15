@@ -36,7 +36,9 @@ Twitter: [33Audits](https://twitter.com/solidityauditor)
 | [V4-Router]| 1 | 0  | [Source](https://github.com/leeftk/audit-reports/blob/main/private%20audits/router-v4-audit-report%20(1).pdf)|
 | [Vouch]| 5 | 8  | [Source](https://github.com/33Audits/vouch-audit/blob/main/vouch-audit-report.md)|
 | [Torus]| 0 | 3  | [Source](https://github.com/33Audits/torus-audit/blob/main/torus-audit.md)|
-
+| [Torus](https://github.com/BuildTheTech/Torus-Contracts) | 0 | 3 | [Source](https://github.com/leeftk/audit-reports/blob/main/audit-reports/torus_audit_report.pdf) |
+| [Plazm](https://github.com/BuildTheTech/Plazm-Contracts) | 1 | 1 | [Source](https://github.com/leeftk/audit-reports/blob/main/audit-reports/plazm_audit_report.pdf) |
+| [Unity](https://github.com/BuildTheTech/Unity-Contracts) | 0 | 1 | [Source](https://github.com/leeftk/audit-reports/blob/main/audit-reports/unity_audit_report.pdf) |
 
 
 
