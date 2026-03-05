@@ -1,4 +1,4 @@
-# 33Audits Smart Contract Security Audits
+# 33Labs Smart Contract Security Audits
 
 [twitter.com/solidityauditor](https://twitter.com/solidityauditor)
 
@@ -8,7 +8,7 @@ Reach out for smart contract security audits on [Telegram @audits33](https://t.m
 
 ## About 33Audits
 
-I am a Security Researcher and Smart Contract Developer with five years of experience in web3.
+Co-founder & Lead Researcher at 33Labs. Deep in EVM security — auditing DeFi protocols across Uniswap hooks, perpetuals, cross-chain infrastructure, and more.
 
 ### Contact Information
 I'm available for Smart Contract Auditing and Development, please reach out below:
