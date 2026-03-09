@@ -1,10 +1,3 @@
-# 33Labs Smart Contract Security Audits
-
-[twitter.com/solidityauditor](https://twitter.com/solidityauditor)
-
-Reach out for smart contract security audits on [Telegram @audits33](https://t.me/audits33)
-
----
 # 33Labs Smart Contract Security
 [twitter.com/33Audits](https://twitter.com/33Audits) | Reach out on [Telegram @audits33](https://t.me/audits33)
 
