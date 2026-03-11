@@ -5,7 +5,7 @@
 
 ## About
 
-Founder of 33Labs | Known as 33Audits on-chain. 4+ years in EVM security — auditing DeFi protocols across Uniswap hooks, perpetuals, cross-chain infrastructure, and more. Previously at Consensys (Truffle Core).
+Founder of 33Labs | Known as 33Audits on-chain. 6+ years in EVM development and security — auditing DeFi protocols across Uniswap hooks, perpetuals, cross-chain infrastructure, and more. Previously at Consensys (Truffle Core).
 
 Available for smart contract security audits and development.
 
