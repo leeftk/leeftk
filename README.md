@@ -1,92 +1,14 @@
-# 33Labs Smart Contract Security
-[twitter.com/33Audits](https://twitter.com/33Audits) | Reach out on [Telegram @audits33](https://t.me/audits33)
+# 33Audits Smart Contract Security Audits
+
+[twitter.com/solidityauditor](https://twitter.com/solidityauditor)
+
+Reach out for smart contract security audits on [Telegram @audits33](https://t.me/audits33)
 
 ---
 
-## About
-
-Founder of 33Labs | Known as 33Audits on-chain. 6+ years in EVM development and security — auditing DeFi protocols across Uniswap hooks, perpetuals, cross-chain infrastructure, and more. Previously at Consensys (Truffle Core).
-
-Available for smart contract security audits and development.
-
-- **Telegram:** [@audits33](https://t.me/audits33)
-- **Twitter:** [@33audits](https://twitter.com/33audits)
-
----
-
-## Summary
-
-| Total Findings | High | Medium | Contests | Private Audits |
-|:--:|:--:|:--:|:--:|:--:|
-| 85 | 37 | 67 | 4 | 24 |
-
----
-
-## Private Audits
-
-### Staking & DeFi
-
-| Project | High | Medium | Report |
-| ------- | :--: | :----: | ------ |
-| [JuiceBox](https://juicebox.money/) | 5 | 13 | [PDF](private%20audits/juicebox-eth-audit-report-v4.pdf) |
-| [Dein](https://dein.fi/) | 5 | 13 | [PDF](private%20audits/Dein-audit-report-%202.pdf) |
-| [MCR369 Staking](https://www.mcr369.io/) | 2 | 4 | [PDF](private%20audits/MCR369Staking_merged.pdf) |
-| [StakeHouse](https://www.0xbuffet.io/stake) | 4 | 3 | [PDF](private%20audits/StakeHousePool-audit-report.pdf) |
-| [Bistro Staking](https://0xbistro.io/) | 3 | 2 | [PDF](private%20audits/audit-report-bistro-unlocked.pdf) |
-| [Libree V3](https://www.libree.xyz/) | 4 | 1 | [PDF](private%20audits/audit-report-libree-v3.pdf) |
-| [Libree Proxies](https://www.libree.xyz/) | 1 | 2 | [PDF](private%20audits/audit-report-libree-proxies.pdf) |
-| [Libree ERC6909](https://www.libree.xyz/) | 0 | 1 | [PDF](private%20audits/libree-audit-report-plugins.pdf) |
-| [Libree V2](https://www.libree.xyz/) | – | – | [PDF](private%20audits/libree-v2-audit-report.pdf) |
-| [Seraph Token](https://www.seraph.game/) | 0 | 2 | [PDF](private%20audits/seraph-audit-report.pdf) |
-| [Seraph Token v2](https://www.seraph.game/) | 0 | 2 | [PDF](private%20audits/audit-report-seraph-token.pdf) |
-| [2Phux Finance](https://2phux.io/) | 1 | 0 | [PDF](private%20audits/2phux-audit-report.pdf) |
-| [Gaia Rewards](https://gaia.rewards/) | – | – | [PDF](private%20audits/gaia-rewards-audit-report.pdf) |
-
-### DEX & Infrastructure
-
-| Project | High | Medium | Report |
-| ------- | :--: | :----: | ------ |
-| [V4 Router](https://github.com/z0r0z/v4-router) | 1 | 0 | [PDF](private%20audits/router-v4-audit-report.pdf) |
-| [Uniswap Split Fee Hook](https://uniswap.org/) | – | – | [PDF](private%20audits/uniswap-split-fee-hook.pdf) |
-| [BackGeoOracle](https://rigoblock.com/) | 2 | 0 | [PDF](private%20audits/audit-report-backgeooracle.pdf) |
-| [FM Oracle Redeeming](https://rigoblock.com/) | – | – | [PDF](private%20audits/audit-report-fm-oracle-redeeming.pdf) |
-
-### Protocols & Others
-
-| Project | High | Medium | Report |
-| ------- | :--: | :----: | ------ |
-| [FortuneFi](https://fortunefi.io/) | 6 | 7 | [PDF](private%20audits/FortuneFi-audit-report.pdf) |
-| [Flow Protocol](https://flow.so/) | 1C | 5 | [PDF](private%20audits/audit-report-flow.pdf) |
-| [SwitchX](https://switchx.io/) | – | – | [PDF](private%20audits/SwitchX-audit-report%20(1).pdf) |
-| [VII Finance](https://vii.finance/) | – | – | [PDF](private%20audits/VII-Finance-audit-report.pdf) |
-| [Coinwell](https://coinwell.io/) | – | – | [PDF](private%20audits/coinwell-audit-report.pdf) |
-| [Plazm EasyMode](https://plazm.io/) | 1 | 1 | [PDF](private%20audits/plazm-easymode-audit-report.pdf) |
-| [Poply](https://poply.io/) | – | – | [PDF](private%20audits/poply-audit-report%20(2).pdf) |
-| [DLF](https://dlf.finance/) | – | – | [PDF](private%20audits/DLF-audit-report.pdf) |
-
----
-
-## Dev Work
-
-**Solidity & Smart Contract Development**
-- [UniswapV4 Point Hook](https://github.com/leeftk/uniswapV4-points-hook)
-- [UniswapV4 TWAMM Hook for FWB DAO](https://github.com/leeftk/hooks-fwb/)
-- [Ekubo TWAMM Bridge in Cairo](https://github.com/leeftk/twamm-ekubo/tree/main)
-- [omniLiquidVaults — cross-chain liquidity vaults via LayerZero](https://github.com/leeftk/index-vaultv2)
-- [ENS Clone — full stack dapp](https://lucky-hill-3994.on.fleek.co/)
-- [ERC4626 Index Vault for AITokens](https://github.com/leeftk/index-vault)
-- [Account Abstraction Lite](https://github.com/leeftk/account-abstraction)
-- [AMM Router for ProphetBots](https://github.com/leeftk/prophetrouter)
-
-**Consensys — Truffle**
-- [Truffle NFT Box](https://github.com/truffle-box/nft-box)
-- [Truffle DAO Box](https://github.com/truffle-box/dao-box)
-- [Rentable NFT Tutorial (ERC-4907)](https://github.com/trufflesuite/unleashed/tree/erc-4907)
-- Maintained and shipped weekly releases for [Truffle Core](https://github.com/trufflesuite)
-- Integrated Arbiscan and Optimism scan into [fetch-and-compile](https://github.com/trufflesuite/truffle/tree/develop/packages/fetch-and-compile)
 ## About 33Audits
 
-Co-founder & Lead Researcher at 33Labs. Deep in EVM security — auditing DeFi protocols across Uniswap hooks, perpetuals, cross-chain infrastructure, and more.
+I am a Security Researcher and Smart Contract Developer with five years of experience in web3.
 
 ### Contact Information
 I'm available for Smart Contract Auditing and Development, please reach out below:
@@ -101,6 +23,17 @@ I'm available for Smart Contract Auditing and Development, please reach out belo
 | Overall | High risk | Medium risk | Audited contests | Private Audits |
 |:--:|:--:|:--:|:--:|:--:|
 | 85 High/Medium | 37 High | 67 Medium | 4 | 24 |
+
+---
+
+## Critical findings
+
+| Project | Critical | Report |
+| ------- | :------: | ------ |
+| [Uniswap Split Fee Hook](https://uniswap.org/) | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/uniswap-split-fee-hook.pdf) |
+| [Plazm EasyMode](https://plazm.io/) | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/plazm-easymode-audit-report.pdf) |
+| [Coinwell](https://coinwell.io/) | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/coinwell-audit-report.pdf) |
+| [DLF](https://dlf.finance/) | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/DLF-audit-report.pdf) |
 
 ---
 
@@ -138,6 +71,7 @@ I'm available for Smart Contract Auditing and Development, please reach out belo
   </td>
   <td width="29%" valign="top" style="text-align:left;">
     <a href="https://github.com/leeftk/audit-reports/blob/main/private%20audits/uniswap-split-fee-hook.pdf" target="_blank">Uniswap Split Fee Hook</a>
+    <img src="https://img.shields.io/badge/-1_C_3_H-5924e1?style=flat" />
   </td>
   <td width="30%" valign="top" style="text-align:left;">
     <a href="https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-backgeooracle.pdf" target="_blank">BackGeoOracle</a>
@@ -152,6 +86,7 @@ I'm available for Smart Contract Auditing and Development, please reach out belo
   </td>
   <td width="29%" valign="top" style="text-align:left;">
     <a href="https://github.com/leeftk/audit-reports/blob/main/private%20audits/gaia-rewards-audit-report.pdf" target="_blank">Gaia Rewards</a>
+    <img src="https://img.shields.io/badge/-2_H_5_M-5924e1?style=flat" />
   </td>
   <td width="29%" valign="top" style="text-align:left;">
     <a href="https://github.com/leeftk/audit-reports/blob/main/private%20audits/seraph-audit-report.pdf" target="_blank">Seraph Token</a>
@@ -173,42 +108,42 @@ I'm available for Smart Contract Auditing and Development, please reach out belo
 
 ### Staking & DeFi
 
-| Project | High | Medium | Report |
-| ------- | :--: | :----: | ------ |
-| [JuiceBox](https://juicebox.money/) | 5 | 13 | [PDF](private%20audits/juicebox-eth-audit-report-v4.pdf) |
-| [Dein](https://dein.fi/) | 5 | 13 | [PDF](private%20audits/Dein-audit-report-%202.pdf) |
-| [MCR369 Staking](https://www.mcr369.io/) | 2 | 4 | [PDF](private%20audits/MCR369Staking_merged.pdf) |
-| [StakeHouse](https://www.0xbuffet.io/stake) | 4 | 3 | [PDF](private%20audits/StakeHousePool-audit-report.pdf) |
-| [Bistro Staking](https://0xbistro.io/) | 3 | 2 | [PDF](private%20audits/audit-report-bistro-unlocked.pdf) |
-| [Libree V3](https://www.libree.xyz/) | 4 | 1 | [PDF](private%20audits/audit-report-libree-v3.pdf) |
-| [Libree Proxies](https://www.libree.xyz/) | 1 | 2 | [PDF](private%20audits/audit-report-libree-proxies.pdf) |
-| [Libree ERC6909](https://www.libree.xyz/) | 0 | 1 | [PDF](private%20audits/libree-audit-report-plugins.pdf) |
-| [Libree V2](https://www.libree.xyz/) | – | – | [PDF](private%20audits/libree-v2-audit-report.pdf) |
-| [Seraph Token](https://www.seraph.game/) | 0 | 2 | [PDF](private%20audits/seraph-audit-report.pdf) |
-| [Seraph Token v2](https://www.seraph.game/) | 0 | 2 | [PDF](private%20audits/audit-report-seraph-token.pdf) |
-| [2Phux Finance](https://2phux.io/) | 1 | 0 | [PDF](private%20audits/2phux-audit-report.pdf) |
-| [Gaia Rewards](https://gaia.rewards/) | – | – | [PDF](private%20audits/gaia-rewards-audit-report.pdf) |
+| Project | Crit | High | Medium | Report |
+| ------- | :--: | :--: | :----: | ------ |
+| [JuiceBox](https://juicebox.money/) | 0 | 5 | 13 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/juicebox-eth-audit-report-v4.pdf) |
+| [Dein](https://dein.fi/) | 0 | 5 | 13 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf) |
+| [MCR369 Staking](https://www.mcr369.io/) | 0 | 2 | 4 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/MCR369Staking%5Fmerged.pdf) |
+| [StakeHouse](https://www.0xbuffet.io/stake) | 0 | 4 | 3 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/StakeHousePool-audit-report.pdf) |
+| [Bistro Staking](https://0xbistro.io/) | 0 | 3 | 2 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-bistro-unlocked.pdf) |
+| [Libree V3](https://www.libree.xyz/) | 0 | 4 | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-v3.pdf) |
+| [Libree Proxies](https://www.libree.xyz/) | 0 | 1 | 2 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-libree-proxies.pdf) |
+| [Libree ERC6909](https://www.libree.xyz/) | 0 | 0 | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/libree-audit-report-plugins.pdf) |
+| [Libree V2](https://www.libree.xyz/) | 0 | 4 | 0 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/libree-v2-audit-report.pdf) |
+| [Seraph Token](https://www.seraph.game/) | 0 | 0 | 2 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/seraph-audit-report.pdf) |
+| [Seraph Token v2](https://www.seraph.game/) | 0 | 0 | 2 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-seraph-token.pdf) |
+| [2Phux Finance](https://2phux.io/) | 0 | 1 | 0 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/2phux-audit-report.pdf) |
+| [Gaia Rewards](https://gaia.rewards/) | 0 | 2 | 5 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/gaia-rewards-audit-report.pdf) |
 
 ### DEX & Infrastructure
 
-| Project | High | Medium | Report |
-| ------- | :--: | :----: | ------ |
-| [V4 Router](https://github.com/z0r0z/v4-router) | 1 | 0 | [PDF](private%20audits/router-v4-audit-report.pdf) |
-| [Uniswap Split Fee Hook](https://uniswap.org/) | – | – | [PDF](private%20audits/uniswap-split-fee-hook.pdf) |
-| [BackGeoOracle](https://rigoblock.com/) | 2 | 0 | [PDF](private%20audits/audit-report-backgeooracle.pdf) |
-| [FM Oracle Redeeming](https://rigoblock.com/) | – | – | [PDF](private%20audits/audit-report-fm-oracle-redeeming.pdf) |
+| Project | Crit | High | Medium | Report |
+| ------- | :--: | :--: | :----: | ------ |
+| [V4 Router](https://github.com/z0r0z/v4-router) | 0 | 1 | 0 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/router-v4-audit-report.pdf) |
+| [Uniswap Split Fee Hook](https://uniswap.org/) | 1 | 3 | 0 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/uniswap-split-fee-hook.pdf) |
+| [BackGeoOracle](https://rigoblock.com/) | 0 | 2 | 0 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-backgeooracle.pdf) |
+| [FM Oracle Redeeming](https://rigoblock.com/) | – | – | – | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-fm-oracle-redeeming.pdf) |
 
 ### Protocols & Others
 
-| Project | High | Medium | Report |
-| ------- | :--: | :----: | ------ |
-| [FortuneFi](https://fortunefi.io/) | – | – | [PDF](private%20audits/FortuneFi-audit-report.pdf) |
-| [SwitchX](https://switchx.io/) | – | – | [PDF](private%20audits/SwitchX-audit-report%20(1).pdf) |
-| [VII Finance](https://vii.finance/) | – | – | [PDF](private%20audits/VII-Finance-audit-report.pdf) |
-| [Coinwell](https://coinwell.io/) | – | – | [PDF](private%20audits/coinwell-audit-report.pdf) |
-| [Plazm EasyMode](https://plazm.io/) | 1 | 1 | [PDF](private%20audits/plazm-easymode-audit-report.pdf) |
-| [Poply](https://poply.io/) | – | – | [PDF](private%20audits/poply-audit-report%20(2).pdf) |
-| [DLF](https://dlf.finance/) | – | – | [PDF](private%20audits/DLF-audit-report.pdf) |
+| Project | Crit | High | Medium | Report |
+| ------- | :--: | :--: | :----: | ------ |
+| [FortuneFi](https://fortunefi.io/) | 0 | 6 | 7 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/audit-report-fortunefi.pdf) |
+| [SwitchX](https://switchx.io/) | 0 | 3 | 0 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/SwitchX-audit-report%20%281%29.pdf) |
+| [VII Finance](https://vii.finance/) | 0 | 0 | 0 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/VII-Finance-audit-report.pdf) |
+| [Coinwell](https://coinwell.io/) | 1 | 0 | 3 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/coinwell-audit-report.pdf) |
+| [Plazm EasyMode](https://plazm.io/) | 1 | 1 | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/plazm-easymode-audit-report.pdf) |
+| [Poply](https://poply.io/) | 0 | 0 | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/poply-audit-report%20%282%29.pdf) |
+| [DLF](https://dlf.finance/) | 1 | 0 | 1 | [PDF](https://github.com/leeftk/audit-reports/blob/main/private%20audits/DLF-audit-report.pdf) |
 
 ---
 
